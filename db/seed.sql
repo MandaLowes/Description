@@ -39,6 +39,10 @@ INSERT INTO information (id, PRODUCT_NAME, info) VALUES ('1729b8ea-1ab1-11ea-b9f
 The ornate Zenoti Arms HB-9 was a long-range blaster rifle with an intricately-patterned barrel and an elegant, curving stock and shoulder brace. 
 The HB-9 featured a front sight over the tip of the barrel and a hand-turned recharge valve.");
 
+INSERT INTO information (id, PRODUCT_NAME, info) VALUES ('1723idea-1ab1-11ea-b9fe-332f5417770f', 'The 5-x6t Baby Carrier', "This carrier is designed for comfort and protection for your little one.  This carrier comes with everything from a 8 inch blast shield, hover pads on the bottom, and machinewashable bed pads.  Baby Yoda not included.");
+
+INSERT INTO information (id, PRODUCT_NAME, info) VALUES ('1723ibba-1ab1-11ea-b9fe-332f5417770f', 'Slave 1', 'Slave I was a modified Firespray-31-class patrol and attack craft used by the infamous bounty hunter Jango Fett before the Clone Wars and later his unaltered cloned "son" Boba Fett just prior to the Fall of the Republic and during the reign of the Galactic Empire.'
+
 
 INSERT INTO bulletPoints (id, PRODUCT_NAME, bullet) VALUES (uuid(), 'X-Wing', "It can make long-range jumps with its hyperdrive and its astromech droid co-pilot");
 INSERT INTO bulletPoints (id, PRODUCT_NAME, bullet) VALUES (uuid(), 'B-wing', "The ship is designed around the primary airfoil");

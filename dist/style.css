@@ -8,17 +8,19 @@
   
   .lbl-toggle {
     display: block;
-  
+    
     font-weight: bold;
     font-family: monospace;
     font-size: 1.2rem;
     text-transform: uppercase;
     text-align: center;
-  
+    width: 800px;
+    position: relative;
+    left: 160px;
     padding: 1rem;
   
-    color: #000000;
-    background: #455847;
+    color: #b4b1a9;
+    background: #463433;
   
     cursor: pointer;
   
@@ -65,11 +67,13 @@
   
   .collapsible-content .content-inner {
       font-size: 14px;
-    background: #f3db99;
+    background: #b2a7a0;
     border-bottom: 1px solid rgba(250, 224, 66, .45);
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
     padding: .5rem 1rem;
+    width: 800px;
+  
   } 
 
 .info-circle{
@@ -77,11 +81,11 @@
     height: 35px;
     position: relative;
     top: 48px;
-    left:10px;
+    left:160px;
 }
 
-.div{
+/* .div{
     position: relative;
     bottom: 7px;
-
-}
+    width: 520px;
+} */

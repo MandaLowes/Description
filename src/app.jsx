@@ -44,7 +44,6 @@ class Description extends React.Component {
                     )
                 })}
             </div>
-                <hr className="div"></hr>
             </div>
         
         )
